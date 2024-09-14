@@ -3,4 +3,4 @@
 :: LUEGO PARA EJECUTAR ESTE SCRIPT PONER "./run.bat"
 SCP test.py utabot@192.168.72.177:/home/utabot
 @REM SSH utabot@192.168.72.179 -t "sudo killall python3; python3 test.py"
-SSH utabot@192.168.72.177 -t "python3 test.py"
+SSH utabot@192.168.72.177 -t "sudo python3 test.py"
