@@ -1,0 +1,30 @@
+running egg_info
+creating ../../build/utabot_controller/utabot_controller.egg-info
+writing ../../build/utabot_controller/utabot_controller.egg-info/PKG-INFO
+writing dependency_links to ../../build/utabot_controller/utabot_controller.egg-info/dependency_links.txt
+writing requirements to ../../build/utabot_controller/utabot_controller.egg-info/requires.txt
+writing top-level names to ../../build/utabot_controller/utabot_controller.egg-info/top_level.txt
+writing manifest file '../../build/utabot_controller/utabot_controller.egg-info/SOURCES.txt'
+reading manifest file '../../build/utabot_controller/utabot_controller.egg-info/SOURCES.txt'
+writing manifest file '../../build/utabot_controller/utabot_controller.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/utabot/Desktop/UTABOT/ros2_ws/build/utabot_controller/build
+creating /home/utabot/Desktop/UTABOT/ros2_ws/build/utabot_controller/build/lib
+creating /home/utabot/Desktop/UTABOT/ros2_ws/build/utabot_controller/build/lib/utabot_controller
+copying utabot_controller/__init__.py -> /home/utabot/Desktop/UTABOT/ros2_ws/build/utabot_controller/build/lib/utabot_controller
+running install
+running install_lib
+creating /home/utabot/Desktop/UTABOT/ros2_ws/install/utabot_controller/lib/python3.12/site-packages/utabot_controller
+copying /home/utabot/Desktop/UTABOT/ros2_ws/build/utabot_controller/build/lib/utabot_controller/__init__.py -> /home/utabot/Desktop/UTABOT/ros2_ws/install/utabot_controller/lib/python3.12/site-packages/utabot_controller
+byte-compiling /home/utabot/Desktop/UTABOT/ros2_ws/install/utabot_controller/lib/python3.12/site-packages/utabot_controller/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/utabot/Desktop/UTABOT/ros2_ws/install/utabot_controller/share/ament_index
+creating /home/utabot/Desktop/UTABOT/ros2_ws/install/utabot_controller/share/ament_index/resource_index
+creating /home/utabot/Desktop/UTABOT/ros2_ws/install/utabot_controller/share/ament_index/resource_index/packages
+copying resource/utabot_controller -> /home/utabot/Desktop/UTABOT/ros2_ws/install/utabot_controller/share/ament_index/resource_index/packages
+copying package.xml -> /home/utabot/Desktop/UTABOT/ros2_ws/install/utabot_controller/share/utabot_controller
+running install_egg_info
+Copying ../../build/utabot_controller/utabot_controller.egg-info to /home/utabot/Desktop/UTABOT/ros2_ws/install/utabot_controller/lib/python3.12/site-packages/utabot_controller-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/utabot/Desktop/UTABOT/ros2_ws/build/utabot_controller/install.log'
