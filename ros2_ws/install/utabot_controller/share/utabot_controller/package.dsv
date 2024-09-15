@@ -4,3 +4,6 @@ source;share/utabot_controller/hook/pythonpath.sh
 source;share/utabot_controller/hook/ament_prefix_path.ps1
 source;share/utabot_controller/hook/ament_prefix_path.dsv
 source;share/utabot_controller/hook/ament_prefix_path.sh
+source;../../build/utabot_controller/share/utabot_controller/hook/pythonpath_develop.ps1
+source;../../build/utabot_controller/share/utabot_controller/hook/pythonpath_develop.dsv
+source;../../build/utabot_controller/share/utabot_controller/hook/pythonpath_develop.sh
