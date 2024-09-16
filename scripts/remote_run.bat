@@ -4,6 +4,6 @@
 
 set "RPI_ADDRESS=192.168.1.177"
 
-SCP test.py utabot@%RPI_ADDRESS%:/home/utabot
-:: REM SSH utabot@%RPI_ADDRESS% -t "sudo killall python3; python3 test.py"
-SSH utabot@%RPI_ADDRESS% -t "sudo python3 test.py"
+SCP test.py utabot@%RPI_ADDRESS%:/home/utabot/Desktop/UTABOT
+:: SSH utabot@%RPI_ADDRESS% -t "sudo killall python3; python3 test.py"
+SSH utabot@%RPI_ADDRESS% -t "python3 /home/utabot/Desktop/UTABOT/test.py"

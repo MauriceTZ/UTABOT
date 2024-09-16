@@ -3,7 +3,7 @@
     "tasks": [
         {
             "label": "RUN",
-            "command": "./run.bat",
+            "command": ". scripts/remote_run.bat",
             "type": "shell",
             "args": [],
             "problemMatcher": [
@@ -16,7 +16,7 @@
         },
         {
             "label": "CONNECT",
-            "command": "./connect.bat",
+            "command": ". scripts/remote_connect.bat",
             "type": "shell",
             "args": [],
             "problemMatcher": [
