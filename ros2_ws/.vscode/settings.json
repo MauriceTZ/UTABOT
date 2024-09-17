@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/utabot/Desktop/UTABOT/ros2_ws/build/utabot_controller",
+        "/home/utabot/Desktop/UTABOT/ros2_ws/install/utabot_controller/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/utabot/Desktop/UTABOT/ros2_ws/build/utabot_controller",
+        "/home/utabot/Desktop/UTABOT/ros2_ws/install/utabot_controller/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}

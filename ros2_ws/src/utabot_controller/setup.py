@@ -20,7 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            "test_node = utabot_controller.controller:main"
+            "test_node = utabot_controller.controller:main",
+            "mpu6050_publisher = utabot_controller.mpu6050_publisher:main"
         ],
     },
 )

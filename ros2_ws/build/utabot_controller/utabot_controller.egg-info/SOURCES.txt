@@ -11,6 +11,7 @@ setup.py
 resource/utabot_controller
 utabot_controller/__init__.py
 utabot_controller/controller.py
+utabot_controller/mpu6050_publisher.py
 utabot_controller.egg-info/PKG-INFO
 utabot_controller.egg-info/SOURCES.txt
 utabot_controller.egg-info/dependency_links.txt
